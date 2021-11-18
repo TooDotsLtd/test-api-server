@@ -1,0 +1,9 @@
+{
+  "name": "test-api-server",
+  "description": "Test API Server",
+  "author": {
+    "name": "Ryan Weber"
+  },
+  "main": "server.js",
+  "type": "module"
+}

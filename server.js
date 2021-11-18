@@ -1,5 +1,5 @@
 import * as http from 'http';
-import {router} from './src/helpers.js';
+import {router} from './src/router.js';
 
 const PORT = 8888;
 
@@ -13,6 +13,6 @@ const server = http.createServer(
 );
 
 server.listen(PORT, () => {
-    console.log('💥 API Server v1.0 © TooDots Ltd 2021')
+    console.log('💥 API Server © TooDots Ltd 2021')
     console.log(`   ⚡︎ Server started on port: ${PORT} ...`);
 });

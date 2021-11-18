@@ -8,7 +8,7 @@ Fast and simple zero dependencies NodeJS API server.
 
 - Change your current path to this folder.
 - Execute `node server.js`
-- API is now available at https://localhost:8888
+- API is now available at http://localhost:8888
 
 ## Routing
 

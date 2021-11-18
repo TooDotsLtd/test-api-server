@@ -2,6 +2,8 @@
 
 Fast and simple zero dependencies NodeJS API server.
 
+![Terminal](./screenshot.png)
+
 ## How to start?
 
 - Change your current path to this folder.
